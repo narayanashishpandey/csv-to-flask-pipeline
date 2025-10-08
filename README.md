@@ -14,3 +14,15 @@ Inserting the processed data into a SQL database (like SQLite or MySQL), and
 Optionally visualizing or managing the records via Flask routes.
 
 This beginner-friendly project showcases how to connect backend data processing with a lightweight web framework — a solid foundation for data-driven web applications and ETL (Extract, Transform, Load) pipelines.
+
+🧱 Tech Stack
+
+Python 3.x
+
+Flask (for web framework and routing)
+
+Pandas (for data manipulation and cleaning)
+
+SQLAlchemy / SQLite / MySQL (for database interaction)
+
+HTML / Bootstrap (optional) for frontend templates
